@@ -1,1 +1,2 @@
 This is Demo file for push to git globa
+this is second row to check fetch commond
